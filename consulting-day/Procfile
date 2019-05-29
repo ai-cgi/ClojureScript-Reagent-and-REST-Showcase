@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/consulting-day.jar clojure.main -m consulting-day.server
